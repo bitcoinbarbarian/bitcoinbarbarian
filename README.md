@@ -1,4 +1,4 @@
-<h1>Jordan</h1>
+
 <p align="center">
 ⛤ Jordan
 ⛤ 15
