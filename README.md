@@ -1,5 +1,5 @@
 <h1>Jordan</h1>
-
+<p align="center">
 ⛤ Jordan
 ⛤ 15
 ⛤ united kingdom
@@ -20,9 +20,4 @@
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/946196772177457182?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Suck%20your%20mum)](https://discord.com/users/946196772177457182)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitcoinbarbarian&" alt="terrorist" /></p>
-<img src="https://komarev.com/ghpvc/?username=bitcoinbarbariant&color=lightgray" alt="fax" width="" height="">
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/946196772177457182)](https://discord.com/users/946196772177457182)
